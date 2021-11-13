@@ -426,8 +426,12 @@
       "SERIAL_CONVERTER"
     ],
     [
+      "22c0820e-e314-46ed-aa29-2085ed67d465",
+      "12vSwitchMode1"
+    ],
+    [
       "d86f7b48-e38b-46e6-9d27-7599a07fc04f",
-      "6vSwitchMode"
+      "12vSwitchMode"
     ],
     [
       "eb82a682-9498-449a-80ef-b7010d9d831b",
@@ -448,6 +452,18 @@
     [
       "4421a7b4-5c75-42f4-8277-6dc478e6146d",
       "USB3_CONN"
+    ],
+    [
+      "312dd32d-6800-4f66-abba-955b8ecea13a",
+      "SUPPLIMENTARY_BATTERY"
+    ],
+    [
+      "757ac581-c7e3-4e3e-a82c-c62434a8b572",
+      "3vSwitchmode"
+    ],
+    [
+      "a9ebecd7-0128-4db6-a255-4b587a32fe46",
+      "QWIIC_CONNECTORS"
     ],
     [
       "00000000-0000-0000-0000-00005cff706a",
