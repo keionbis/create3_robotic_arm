@@ -189,11 +189,11 @@
   )
 
   (junction (at 51.054 61.468) (diameter 0) (color 0 0 0 0))
-  (junction (at 53.34 107.696) (diameter 0) (color 0 0 0 0))
+  (junction (at 50.8 107.696) (diameter 0) (color 0 0 0 0))
   (junction (at 53.34 84.582) (diameter 0) (color 0 0 0 0))
   (junction (at 50.8 84.582) (diameter 0) (color 0 0 0 0))
-  (junction (at 50.8 107.696) (diameter 0) (color 0 0 0 0))
   (junction (at 53.594 61.468) (diameter 0) (color 0 0 0 0))
+  (junction (at 53.34 107.696) (diameter 0) (color 0 0 0 0))
 
   (wire (pts (xy 50.8 99.822) (xy 50.8 107.696))
     (stroke (width 0) (type default) (color 0 0 0 0))
