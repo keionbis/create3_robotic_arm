@@ -1409,6 +1409,12 @@
     (path "/33dd8829-5beb-4373-bddc-f832af0eb3b3/00000000-0000-0000-0000-00005e072e02/00000000-0000-0000-0000-00005dbc1892"
       (reference "#PWR0135") (unit 1) (value "GND") (footprint "")
     )
+    (path "/312dd32d-6800-4f66-abba-955b8ecea13a/4ee42ab1-359d-491d-8075-90441994b436"
+      (reference "#PWR0136") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/312dd32d-6800-4f66-abba-955b8ecea13a/0d433e5a-9224-4491-8a6f-b672319aa40b"
+      (reference "#PWR0137") (unit 1) (value "GND") (footprint "")
+    )
     (path "/33dd8829-5beb-4373-bddc-f832af0eb3b3/00000000-0000-0000-0000-00005e328d89/00000000-0000-0000-0000-00005d313a99"
       (reference "BT1") (unit 1) (value "Battery_Cell") (footprint "Battery:BatteryHolder_Keystone_2998_1x6.8mm")
     )

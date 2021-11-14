@@ -3,7 +3,14 @@
     "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": true,
-    "hidden_nets": [],
+    "hidden_nets": [
+      "/CM4IOv5/+1.1v",
+      "+3V3",
+      "+5V",
+      "/CM4IOv5/+5v",
+      "/CM4IOv5/+12v",
+      "/CM4IOv5/+3.3v"
+    ],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
     "opacity": {
@@ -36,6 +43,7 @@
       8,
       9,
       10,
+      11,
       12,
       13,
       14,
@@ -62,7 +70,7 @@
       36
     ],
     "visible_layers": "fffffff_ffffffff",
-    "zone_display_mode": 0
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "create3_arm_controller.kicad_prl",
