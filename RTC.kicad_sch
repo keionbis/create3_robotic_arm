@@ -687,14 +687,14 @@
     )
   )
 
-  (junction (at 195.58 49.53) (diameter 1.016) (color 0 0 0 0))
   (junction (at 213.36 49.53) (diameter 1.016) (color 0 0 0 0))
-  (junction (at 170.18 49.53) (diameter 1.016) (color 0 0 0 0))
+  (junction (at 195.58 49.53) (diameter 1.016) (color 0 0 0 0))
   (junction (at 195.58 62.23) (diameter 1.016) (color 0 0 0 0))
   (junction (at 106.68 140.97) (diameter 1.016) (color 0 0 0 0))
   (junction (at 144.78 140.97) (diameter 1.016) (color 0 0 0 0))
-  (junction (at 213.36 62.23) (diameter 1.016) (color 0 0 0 0))
   (junction (at 57.658 45.72) (diameter 1.016) (color 0 0 0 0))
+  (junction (at 170.18 49.53) (diameter 1.016) (color 0 0 0 0))
+  (junction (at 213.36 62.23) (diameter 1.016) (color 0 0 0 0))
 
   (no_connect (at 138.43 135.89) (uuid 4ae04ba4-4af5-4480-b02e-d650f17f78b4))
   (no_connect (at 138.43 138.43) (uuid eb53ecd0-79cd-4f33-976d-9a1b08237ab7))
