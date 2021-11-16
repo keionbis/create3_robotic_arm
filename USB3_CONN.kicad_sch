@@ -388,11 +388,11 @@
     )
   )
 
-  (junction (at 62.23 97.282) (diameter 0) (color 0 0 0 0))
-  (junction (at 256.032 61.468) (diameter 0) (color 0 0 0 0))
   (junction (at 44.45 75.692) (diameter 0) (color 0 0 0 0))
   (junction (at 59.69 97.282) (diameter 0) (color 0 0 0 0))
+  (junction (at 62.23 97.282) (diameter 0) (color 0 0 0 0))
   (junction (at 198.628 61.722) (diameter 0) (color 0 0 0 0))
+  (junction (at 256.032 61.468) (diameter 0) (color 0 0 0 0))
 
   (wire (pts (xy 44.45 75.692) (xy 44.45 76.962))
     (stroke (width 0) (type default) (color 0 0 0 0))

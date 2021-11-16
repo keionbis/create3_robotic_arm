@@ -120,9 +120,9 @@
     )
   )
 
-  (junction (at 73.914 41.91) (diameter 0) (color 0 0 0 0))
-  (junction (at 105.664 40.894) (diameter 0) (color 0 0 0 0))
   (junction (at 139.446 41.402) (diameter 0) (color 0 0 0 0))
+  (junction (at 105.664 40.894) (diameter 0) (color 0 0 0 0))
+  (junction (at 73.914 41.91) (diameter 0) (color 0 0 0 0))
   (junction (at 43.942 40.64) (diameter 0) (color 0 0 0 0))
 
   (wire (pts (xy 110.744 33.782) (xy 110.744 40.894))
@@ -202,7 +202,7 @@
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 509bf7bf-e576-4013-b3f9-d2aa271cd27c)
   )
-  (hierarchical_label "MOTOR_SERIAL_4" (shape input) (at 144.526 41.656 270)
+  (hierarchical_label "MOTOR_SERIAL_4" (shape input) (at 144.526 41.402 270)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 62d7df77-81b5-4310-9a44-5e4b3aeb1a27)
   )
