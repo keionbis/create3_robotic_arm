@@ -547,10 +547,10 @@
     )
   )
 
-  (junction (at 86.868 102.87) (diameter 0) (color 0 0 0 0))
   (junction (at 86.868 107.95) (diameter 0) (color 0 0 0 0))
   (junction (at 74.93 116.586) (diameter 0) (color 0 0 0 0))
   (junction (at 243.586 26.162) (diameter 0) (color 0 0 0 0))
+  (junction (at 86.868 102.87) (diameter 0) (color 0 0 0 0))
 
   (wire (pts (xy 104.394 78.486) (xy 104.394 66.294))
     (stroke (width 0) (type default) (color 0 0 0 0))

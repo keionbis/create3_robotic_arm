@@ -152,10 +152,12 @@
         )
       )
       (symbol "USB_C_Receptacle_1_1"
-        (circle (center -2.54 1.143) (radius 0.635)           (stroke (width 0.254) (type default) (color 0 0 0 0))
+        (circle (center -2.54 1.143) (radius 0.635)
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
           (fill (type outline))
         )
-        (circle (center 0 -5.842) (radius 1.27)           (stroke (width 0) (type default) (color 0 0 0 0))
+        (circle (center 0 -5.842) (radius 1.27)
+          (stroke (width 0) (type default) (color 0 0 0 0))
           (fill (type outline))
         )
         (polyline
@@ -508,8 +510,8 @@
   )
 
   (junction (at 51.562 76.708) (diameter 0) (color 0 0 0 0))
-  (junction (at 69.342 98.298) (diameter 0) (color 0 0 0 0))
   (junction (at 66.802 98.298) (diameter 0) (color 0 0 0 0))
+  (junction (at 69.342 98.298) (diameter 0) (color 0 0 0 0))
 
   (no_connect (at 242.824 106.426) (uuid 1d8fe1ff-1e77-4ec8-819a-bd6c0a47742e))
   (no_connect (at 242.824 157.226) (uuid 7a5386a8-7c6f-41bc-a94e-ee85ab8e2479))

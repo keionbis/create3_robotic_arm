@@ -481,11 +481,11 @@
     ],
     [
       "22c0820e-e314-46ed-aa29-2085ed67d465",
-      "12vSwitchMode1"
+      "Servo_Regulator"
     ],
     [
       "d86f7b48-e38b-46e6-9d27-7599a07fc04f",
-      "12vSwitchMode"
+      "Serial_Servo_regulator"
     ],
     [
       "eb82a682-9498-449a-80ef-b7010d9d831b",

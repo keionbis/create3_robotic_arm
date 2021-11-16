@@ -330,8 +330,8 @@
 
   (junction (at 165.1 31.75) (diameter 0) (color 0 0 0 0))
   (junction (at 165.1 36.83) (diameter 0) (color 0 0 0 0))
-  (junction (at 176.53 31.75) (diameter 0) (color 0 0 0 0))
   (junction (at 135.89 36.83) (diameter 0) (color 0 0 0 0))
+  (junction (at 176.53 31.75) (diameter 0) (color 0 0 0 0))
 
   (wire (pts (xy 139.7 21.59) (xy 149.86 21.59))
     (stroke (width 0) (type default) (color 0 0 0 0))
